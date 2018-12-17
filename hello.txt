@@ -1,3 +1,1 @@
-Hello git
-Very good
-hot_fix(111,222)
+Hello GitHub.
